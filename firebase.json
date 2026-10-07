@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"dept-tracker-app","appId":"1:87930585270:android:9d05561440f2a1cc2ee617","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"dept-tracker-app","configurations":{"android":"1:87930585270:android:9d05561440f2a1cc2ee617","ios":"1:87930585270:ios:4215d3429c03d4562ee617"}}}}}}
