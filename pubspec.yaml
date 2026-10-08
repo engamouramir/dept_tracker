@@ -38,6 +38,7 @@ dependencies:
   firebase_auth: ^6.7.0
   equatable: ^3.0.0
   dartz: ^0.10.1
+  bloc: ^9.2.1
 
 dev_dependencies:
   flutter_test:
